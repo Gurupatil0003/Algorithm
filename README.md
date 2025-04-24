@@ -1,8 +1,4 @@
-# K means and EM Algorithm
 
-# Aprior Algorithm
-
-<img src="https://intellipaat.com/blog/wp-content/uploads/2019/05/picturemessage_fd2uio5j.1rj.png" alt="Description" width="4000" style="border-radius: 10px; margin-top: 10px;">
 
 
 https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=aprior+algorithm&fr2=piv-web&type=E211IN714G0&fr=mcafee#id=355&iurl=https%3A%2F%2Frailsware.com%2Fblog%2Fwp-content%2Fuploads%2F2018%2F09%2Fillustration-9.jpg&action=click
@@ -21,7 +17,7 @@ https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_
 3. You now have the best estimates for the hidden parts and the model.
 ```
 
-# Flow Charts K means
+# K means
 ```pytohn
 1. Pick how many groups (K) you want.
      ↓
@@ -34,6 +30,8 @@ https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_
 4. You now have K groups and their centers—clustering complete!
 ```
 # Apriori
+
+<img src="https://intellipaat.com/blog/wp-content/uploads/2019/05/picturemessage_fd2uio5j.1rj.png" alt="Description" width="4000" style="border-radius: 10px; margin-top: 10px;">
 ```pytohn
 1. **Start with individual items**: Look at the items in each transaction and see how often they appear together.
      ↓
@@ -44,7 +42,10 @@ https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_
 4. **Repeat** until no more large item sets are frequent.
      ↓
 5. **Find associations**: Based on frequent item sets, find rules like "If you buy X, you might also buy Y".
+
+
 ```
+
 
 
 
