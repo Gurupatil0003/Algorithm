@@ -10,6 +10,41 @@ https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_
 
 ![Flowchart-of-Apriori-algorithm](https://github.com/user-attachments/assets/e8627b30-a137-4d45-9ddc-052974f5b308)
 
+# EM ALgorithm
+``` python
+1. **Guess initial values** for the hidden parts of your data (e.g., cluster centers or parameters).
+     ↓
+2. Repeat until things stop improving:
+     a. **Estimate**: Using your current guesses, figure out the missing information (like how likely each data point belongs to each group).
+     b. **Maximize**: Update your guesses based on the new information. Adjust the hidden parts of your data to better fit the observed data.
+     ↓
+3. You now have the best estimates for the hidden parts and the model.
+```
+
+# Flow Charts K means
+```pytohn
+1. Pick how many groups (K) you want.
+     ↓
+2. Randomly place K “center” points in your data space.
+     ↓
+3. Repeat until things stop changing much:
+     a. **Sort**: For each data item, find which center it’s closest to and put it in that group.
+     b. **Move**: For each group, shift its center to the middle of the items in that group.
+     ↓
+4. You now have K groups and their centers—clustering complete!
+```
+# Apriori
+```pytohn
+1. **Start with individual items**: Look at the items in each transaction and see how often they appear together.
+     ↓
+2. **Find frequent item sets**: Identify which combinations of items appear frequently (above a certain threshold).
+     ↓
+3. **Generate larger item sets**: Combine the frequent item sets to make larger combinations and check if they appear often.
+     ↓
+4. **Repeat** until no more large item sets are frequent.
+     ↓
+5. **Find associations**: Based on frequent item sets, find rules like "If you buy X, you might also buy Y".
+```
 
 | Topic  | Google Colab                                                                                          |
 |--------|-------------------------------------------------------------------------------------------------------|
