@@ -9,3 +9,10 @@ https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_
 
 
 ![Flowchart-of-Apriori-algorithm](https://github.com/user-attachments/assets/e8627b30-a137-4d45-9ddc-052974f5b308)
+
+
+| Topic  | Google Colab                                                                                          |
+|--------|-------------------------------------------------------------------------------------------------------|
+| K Means  | [Open in Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/python.ipynb) |
+| EM Algorithm  | [Open in Colab](https://colab.research.google.com/drive/1TPiUsaPO-V-NBEqVx7L5oXTDIsNh3NIp?usp=sharing)  |
+| Apriori  | [Open in Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/pandas.ipynb) |
