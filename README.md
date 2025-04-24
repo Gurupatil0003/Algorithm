@@ -20,6 +20,6 @@ https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_
 
 | Topic  | Google Colab                                                                                                                 |
 |--------|------------------------------------------------------------------------------------------------------------------------------|
-| python | <a href="https://colab.research.google.com/github/your-username/your-repo/blob/main/notebooks/python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| numpy  | <a href="https://colab.research.google.com/github/your-username/your-repo/blob/main/notebooks/numpy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |
-| pandas | <a href="https://colab.research.google.com/github/your-username/your-repo/blob/main/notebooks/pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| K Means | <a href="https://colab.research.google.com/drive/1dIdZpkMgT6XRfPMNmQ5MSfO3O_0a7m6O?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| EM Algorithm   | <a href="https://colab.research.google.com/drive/1TPiUsaPO-V-NBEqVx7L5oXTDIsNh3NIp?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |
+| Apriori | <a href="https://colab.research.google.com/drive/1Mt71U44NfFJJo0YErwH2kvRtXqJOHzOi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
