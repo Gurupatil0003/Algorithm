@@ -46,15 +46,12 @@ https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_
 5. **Find associations**: Based on frequent item sets, find rules like "If you buy X, you might also buy Y".
 ```
 
-| Topic  | Google Colab                                                                                          |
-|--------|-------------------------------------------------------------------------------------------------------|
-| K Means  | [Open in Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/python.ipynb) |
-| EM Algorithm  | [Open in Colab](https://colab.research.google.com/drive/1TPiUsaPO-V-NBEqVx7L5oXTDIsNh3NIp?usp=sharing)  |
-| Apriori  | [Open in Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/pandas.ipynb) |
 
 
-| Topic  | Google Colab                                                                                                                 |
-|--------|------------------------------------------------------------------------------------------------------------------------------|
-| K Means | <a href="https://colab.research.google.com/drive/1dIdZpkMgT6XRfPMNmQ5MSfO3O_0a7m6O?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| EM Algorithm   | <a href="https://colab.research.google.com/drive/1TPiUsaPO-V-NBEqVx7L5oXTDIsNh3NIp?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |
-| Apriori | <a href="https://colab.research.google.com/drive/1Mt71U44NfFJJo0YErwH2kvRtXqJOHzOi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+| Topic         | Medium Article                                                                                              | Google Colab                                                                                                                 |
+|---------------|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| K Means       | [Read on Medium](MEDIUM_LINK_KMEANS)                                                                        | <a href="https://colab.research.google.com/drive/1dIdZpkMgT6XRfPMNmQ5MSfO3O_0a7m6O?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| EM Algorithm  | [Read on Medium](MEDIUM_LINK_EM)                                                                            | <a href="https://colab.research.google.com/drive/1TPiUsaPO-V-NBEqVx7L5oXTDIsNh3NIp?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |
+| Apriori       | [Read on Medium](MEDIUM_LINK_APRIORI)                                                                        | <a href="https://colab.research.google.com/drive/1Mt71U44NfFJJo0YErwH2kvRtXqJOHzOi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
