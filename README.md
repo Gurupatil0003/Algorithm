@@ -16,3 +16,10 @@ https://in.images.search.yahoo.com/search/images;_ylt=Awrx_3uA5gloLgIAoTq7HAx.;_
 | K Means  | [Open in Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/python.ipynb) |
 | EM Algorithm  | [Open in Colab](https://colab.research.google.com/drive/1TPiUsaPO-V-NBEqVx7L5oXTDIsNh3NIp?usp=sharing)  |
 | Apriori  | [Open in Colab](https://colab.research.google.com/github/your-username/your-repo/blob/main/pandas.ipynb) |
+
+
+| Topic  | Google Colab                                                                                                                 |
+|--------|------------------------------------------------------------------------------------------------------------------------------|
+| python | <a href="https://colab.research.google.com/github/your-username/your-repo/blob/main/notebooks/python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| numpy  | <a href="https://colab.research.google.com/github/your-username/your-repo/blob/main/notebooks/numpy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |
+| pandas | <a href="https://colab.research.google.com/github/your-username/your-repo/blob/main/notebooks/pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
